@@ -1,0 +1,8 @@
+[package]
+name = "ggen"
+version = "0.0.0"
+authors = ["amwo <tsushimori@gmail.com>"]
+homepage = "https://github.com/amwo/ggen"
+readme = "README.md"
+description = "Multi-generator. html, pdf ..."
+edition = "2018"
